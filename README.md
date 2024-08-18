@@ -1,5 +1,7 @@
 # Seoul & Busan Apartment Price Prediction with Machine Learning
 
+<img src='POSTER.png'>
+
 <strong>Baseline Model</strong>
 <li>
 Applied Numeric Features Only

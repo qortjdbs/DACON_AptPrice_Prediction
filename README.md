@@ -10,6 +10,7 @@ Applied Numeric Features Only
 <strong>Version 1</strong>
 <br>
 <li>
+  <br>
 Applied Object Features: 'City', 'Dong'
 </li>
 

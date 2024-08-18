@@ -9,8 +9,8 @@ Applied Numeric Features Only
 <br>
 <strong>Version 1</strong>
 <br>
+<br>
 <li>
-  <br>
 Applied Object Features: 'City', 'Dong'
 </li>
 

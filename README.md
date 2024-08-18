@@ -1,6 +1,10 @@
-# DACON_AptPrice_Prediction
+# Seoul & Busan Apartment Price Prediction with Machine Learning
 
-<strong>Goal: Predict Seoul & Busan Apartment Price</strong>
+<strong>Baseline Model</strong>
+<br>
+<li>
+Applied Numeric Features Only
+</li>
 
 
 
